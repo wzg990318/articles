@@ -1,0 +1,3 @@
+ 
+ $ git config --global user.name "humingx"
+ $ git config --global user.email "humingx@yeah.net"
